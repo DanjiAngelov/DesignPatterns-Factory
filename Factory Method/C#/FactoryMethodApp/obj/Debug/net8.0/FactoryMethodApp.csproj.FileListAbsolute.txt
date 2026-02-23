@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\bin\Debug\net8.0\FactoryMethodApp.exe
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\bin\Debug\net8.0\FactoryMethodApp.deps.json
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\bin\Debug\net8.0\FactoryMethodApp.runtimeconfig.json
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\bin\Debug\net8.0\FactoryMethodApp.dll
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\bin\Debug\net8.0\FactoryMethodApp.pdb
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\FactoryMethodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\FactoryMethodApp.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\FactoryMethodApp.AssemblyInfo.cs
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\FactoryMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\FactoryMethodApp.sourcelink.json
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\FactoryMethodApp.dll
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\refint\FactoryMethodApp.dll
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\FactoryMethodApp.pdb
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\FactoryMethodApp.genruntimeconfig.cache
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\FactoryMethodApp\FactoryMethodApp\obj\Debug\net8.0\ref\FactoryMethodApp.dll

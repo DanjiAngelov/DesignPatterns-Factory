@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.exe
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.deps.json
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.runtimeconfig.json
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.dll
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.pdb
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.AssemblyInfo.cs
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.sourcelink.json
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.dll
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\refint\SimpleFactoryApp.dll
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.pdb
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.genruntimeconfig.cache
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\SimpleFactoryApp\SimpleFactoryApp\obj\Debug\net8.0\ref\SimpleFactoryApp.dll

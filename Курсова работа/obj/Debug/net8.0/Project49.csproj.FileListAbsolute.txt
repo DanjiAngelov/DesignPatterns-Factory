@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\bin\Debug\net8.0\Project49.exe
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\bin\Debug\net8.0\Project49.deps.json
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\bin\Debug\net8.0\Project49.runtimeconfig.json
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\bin\Debug\net8.0\Project49.dll
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\bin\Debug\net8.0\Project49.pdb
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\obj\Debug\net8.0\Project49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\obj\Debug\net8.0\Project49.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\obj\Debug\net8.0\Project49.AssemblyInfo.cs
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\obj\Debug\net8.0\Project49.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\obj\Debug\net8.0\Project49.dll
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\obj\Debug\net8.0\refint\Project49.dll
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\obj\Debug\net8.0\Project49.pdb
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\obj\Debug\net8.0\Project49.genruntimeconfig.cache
+C:\Users\danie\OneDrive\ORM\ORM-HW-1\Project49\Project49\obj\Debug\net8.0\ref\Project49.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDvGDWkFSnM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\studdent\\Шаблони\\Курсова работа\\Project49\\Project49\\Project49.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
